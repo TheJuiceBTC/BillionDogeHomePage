@@ -1,0 +1,35 @@
+04-27 14:58:04: Error: You must supply non-empty url and apiKey parameters.
+04-27 14:58:04: Create Invoice: 
+04-27 14:58:04: {"orderID":1,"itemDesc":"10000 pixels","notificationEmail":"","notificationURL":"http:\/\/thebilliondogehomepage.blockchainauctions.com\/","redirectURL":"","posData":"{\"posData\":\"\",\"hash\":\"X9Vyg7roVZTshZW14TEsXZEYJ3S5-6_SVpDIbTta-XM\"}","price":null,"currency":"BTC","physical":false,"fullNotifications":"","transactionSpeed":"low"}
+04-27 14:58:04: Response: 
+04-27 14:58:04: array (
+  'error' => 'You must supply non-empty url and apiKey parameters.',
+)
+06-18 13:11:50: Error: You must supply non-empty url and apiKey parameters.
+06-18 13:11:50: Create Invoice: 
+06-18 13:11:50: {"orderID":2,"itemDesc":"10800 pixels","notificationEmail":"","notificationURL":"http:\/\/thebilliondogehomepage.blockchainauctions.com\/","redirectURL":"","posData":"{\"posData\":\"\",\"hash\":\"X9Vyg7roVZTshZW14TEsXZEYJ3S5-6_SVpDIbTta-XM\"}","price":null,"currency":"BTC","physical":false,"fullNotifications":"","transactionSpeed":"low"}
+06-18 13:11:50: Response: 
+06-18 13:11:50: array (
+  'error' => 'You must supply non-empty url and apiKey parameters.',
+)
+06-18 13:20:09: Error: You must supply non-empty url and apiKey parameters.
+06-18 13:20:09: Create Invoice: 
+06-18 13:20:09: {"orderID":3,"itemDesc":"10800 pixels","notificationEmail":"","notificationURL":"http:\/\/thebilliondogehomepage.blockchainauctions.com\/","redirectURL":"","posData":"{\"posData\":\"\",\"hash\":\"X9Vyg7roVZTshZW14TEsXZEYJ3S5-6_SVpDIbTta-XM\"}","price":null,"currency":"BTC","physical":false,"fullNotifications":"","transactionSpeed":"low"}
+06-18 13:20:09: Response: 
+06-18 13:20:09: array (
+  'error' => 'You must supply non-empty url and apiKey parameters.',
+)
+06-18 13:32:43: Error: You must supply non-empty url and apiKey parameters.
+06-18 13:32:43: Create Invoice: 
+06-18 13:32:43: {"orderID":5,"itemDesc":"10800 pixels","notificationEmail":"","notificationURL":"http:\/\/thebilliondogehomepage.blockchainauctions.com\/","redirectURL":"","posData":"{\"posData\":\"\",\"hash\":\"X9Vyg7roVZTshZW14TEsXZEYJ3S5-6_SVpDIbTta-XM\"}","price":null,"currency":"BTC","physical":false,"fullNotifications":"","transactionSpeed":"low"}
+06-18 13:32:43: Response: 
+06-18 13:32:43: array (
+  'error' => 'You must supply non-empty url and apiKey parameters.',
+)
+06-18 13:42:23: Error: You must supply non-empty url and apiKey parameters.
+06-18 13:42:23: Create Invoice: 
+06-18 13:42:23: {"orderID":6,"itemDesc":"10800 pixels","notificationEmail":"","notificationURL":"http:\/\/thebilliondogehomepage.blockchainauctions.com\/","redirectURL":"","posData":"{\"posData\":\"\",\"hash\":\"X9Vyg7roVZTshZW14TEsXZEYJ3S5-6_SVpDIbTta-XM\"}","price":null,"currency":"BTC","physical":false,"fullNotifications":"","transactionSpeed":"low"}
+06-18 13:42:23: Response: 
+06-18 13:42:23: array (
+  'error' => 'You must supply non-empty url and apiKey parameters.',
+)
